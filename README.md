@@ -1,5 +1,5 @@
 # admin
 --Day01   2016/11/14
- 1.Git ,TortoiseGit°²×°
- 2.GitHubÍÅ¶Ó×éÖ¯´´½¨£¬ÏîÄ¿´´½¨
- 3.Git Clone¡¢commit¡¢pull¡¢push²Ù×÷
+ ##1.Git ,TortoiseGitå®‰è£…
+ ##2.GitHubå›¢é˜Ÿç»„ç»‡åˆ›å»ºï¼Œé¡¹ç›®åˆ›å»º
+ ##3.Git Cloneã€commitã€pullã€pushæ“ä½œ
