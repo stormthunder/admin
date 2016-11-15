@@ -7,3 +7,4 @@
  
   3.Git Clone、commit、pull、push操作
  
+  4.Everyone create a new branch
