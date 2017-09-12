@@ -1,3 +1,3 @@
-ï»¿
-1.å»–é›ªå³°çš„å®˜æ–¹ç½‘ç«™: http://www.liaoxuefeng.com/
-  Pythonæ•™ç¨‹
+
+1.ÁÎÑ©·åµÄ¹Ù·½ÍøÕ¾: http://www.liaoxuefeng.com/
+  Python½Ì³Ì
